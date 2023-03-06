@@ -34,3 +34,4 @@ while status == True:
                 f.write(item_dl_url + "\n")
     page_num += 1
 f.close()
+print("Task completed.")
