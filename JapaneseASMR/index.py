@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 
-date_target = "2023-03-06"
+date_target = "2023-03-11"
 
 status = True
 s = requests.Session()
